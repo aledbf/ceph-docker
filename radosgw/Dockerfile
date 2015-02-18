@@ -1,5 +1,5 @@
 # DOCKER-VERSION 1.0.0
-# 
+#
 # Ceph rados gateway
 #
 # VERSION 0.0.1
